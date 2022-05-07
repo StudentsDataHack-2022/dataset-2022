@@ -1,0 +1,33 @@
+Zbiór danych pochodzi z jednej z wiodących stron internetowych dotyczących wynajmu mieszkań.
+Dane zawierają 29 kolumn z czego jedną zmienną predykcyjną (log_price).  
+
+Opis kolumn:
+id - identyfikator
+log_price - zlogarytmowana cena mieszkania (zmienna targetu)
+property_type - typ nieruchomości
+room_type - rodzaj pokoju
+amenities - dostępne udogodnienia
+accomodates - liczba osób
+bathrooms - liczba łazienek 
+bed_type - rodzaj łóżek
+cancellaion_policy - polityka dotycząca anulowanych zamówień
+cleaning_fee - opłata za sprzątanie
+city - miasto
+description - opis mieszkania
+first_review - data pierwszej recenzji
+host_has_profile_picture - czy właściciel mieszkania ma zdjęcie profilowe
+host_identity_verification - czy host jest zweryfikowany
+host_response_rate - jak często host odpowiada na zapytania
+host_since - od kiedy właściciel udostępnia mieszkanie
+instant_bookable - czy mieszkanie jest dostępne do zarezerwowania od razu
+last_review - data ostatniej recenzji
+latitiude - szerokość geograficzna budynku
+longitude - długość geograficzna budynku
+name - nazwa oferty mieszkania
+neighbourhood - dzielnica/osiedle, na którym znajduje się mieszkanie
+number_of_reviews - liczba recenzji
+review_scores_rate - ocena użytkowników
+thumbnail_url - link do miniaturki hosta
+zipcode - kod pocztowy
+bedrooms - liczba sypialni
+beds - liczba łóżek
